@@ -17,4 +17,9 @@ Some of the technologies I'm familiar with:
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Views - Basics in Drupal 8/9](https://drupalworld.hashnode.dev/views-basics-in-drupal-89)
+- [Content Type and Fields](https://drupalworld.hashnode.dev/content-type-and-fields)
+- [Working with Blocks in Drupal 9](https://drupalworld.hashnode.dev/working-with-blocks-in-drupal-9)
+- [Breaking down website in Drupal](https://drupalworld.hashnode.dev/breaking-down-website-in-drupal)
+- [Creating a custom page in Drupal 9](https://drupalworld.hashnode.dev/creating-a-custom-page-in-drupal-9)
 <!-- BLOG-POST-LIST:END -->
