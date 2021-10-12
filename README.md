@@ -12,9 +12,7 @@ Some of the technologies I'm familiar with:
 - 📫 How to reach me: my mail
 - ⚡ Fun fact: I am left handed 
 
-<br/>
-<br/>
 
-# Latest Blog posts
+### :books::blue_book: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
