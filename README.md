@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Nirmal :pray:
 
-<!--
-**nexspy/nexspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Drupal Developer switching to MERN applications :heart_eyes::heart:
 
-Here are some ideas to get you started:
+Some of the technologies I'm familiar with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on "stock management sotfware" in MERN
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on Drupal or any react project
+- 🤔 I’m looking for help with react native
+- 💬 Ask me about anything except cooking 
+- 📫 How to reach me: my mail
+- ⚡ Fun fact: I am left handed 
