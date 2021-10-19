@@ -2,7 +2,7 @@
 
 ## I am Drupal Developer switching to MERN applications :heart_eyes::heart:
 
-Some of the technologies I'm familiar with:
+### :scientist: Some of the technologies I'm familiar with:
 
 - 🔭 I’m currently working on "stock management sotfware" in MERN
 - 🌱 I’m currently learning ReactJS
@@ -22,7 +22,7 @@ Some of the technologies I'm familiar with:
 - [Breaking down website in Drupal](https://drupalworld.hashnode.dev/breaking-down-website-in-drupal)
 <!-- BLOG-POST-LIST:END -->
 
-<h3>Things I code with</h3>
+### :nerd_face: Things I code with
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
