@@ -1,6 +1,6 @@
 ### Hi there, I'm Nirmal :pray:
 
-## I am Drupal Developer switching to MERN applications :heart_eyes::heart:
+## Focusing on DevOps / Backend / MERN applications :heart_eyes::heart:
 
 ### :scientist: Some of the technologies I'm familiar with:
 
