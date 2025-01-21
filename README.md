@@ -12,16 +12,7 @@
 -   📫 How to reach me: my mail
 -   ⚡ Fun fact: I am left handed
 
-### :books::blue_book: Latest Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-
--   [Mechanism behind Drupal Forms](https://drupalworld.hashnode.dev/mechanism-behind-drupal-forms)
--   [Views - Basics in Drupal 8/9](https://drupalworld.hashnode.dev/views-basics-in-drupal-89)
--   [Content Type and Fields](https://drupalworld.hashnode.dev/content-type-and-fields)
--   [Working with Blocks in Drupal 9](https://drupalworld.hashnode.dev/working-with-blocks-in-drupal-9)
--   [Breaking down website in Drupal](https://drupalworld.hashnode.dev/breaking-down-website-in-drupal)
-<!-- BLOG-POST-LIST:END -->
 
 ### :nerd_face: Things I code with
 
